@@ -1,0 +1,71 @@
+{
+  "fika_channel": "lunch-and-fika",
+
+  "fika_breaks": [
+    {"name": "förmiddagfika", "start": [10], "stop": [10, 30]},
+    {"name": "eftermiddagsfika", "start": [15], "stop": [21, 30]}
+  ],
+
+  "fika_patterns": [
+    "f+i+k+a+",
+    "k+a+f+f+e+",
+    "[kc]+o+f+e+i+n+",
+    "\\br+a+s+t+\\b"
+  ],
+
+  "emojis": {
+    "fika": ["coffee_mug", "cappuccino", "coffee", "tea"],
+    "positive": ["thumbsup", "metal", "heart", "parrot"]
+  },
+
+  "phrases": {
+    "interjections": [
+      "Bra jobbat!",
+      "Dagen är räddad!",
+      "Det är dags.",
+      "Halloj!",
+      "Hallå!",
+      "Hör upp!",
+      "Jag säger bara det:",
+      "Jag skojar inte!",
+      "Kan man tänka sig!?",
+      "Klockan har talat:",
+      "Kollegor!",
+      "Lystring!",
+      "Samtidigt i verkligheten:",
+      "Som vi har väntat!",
+      "Stoppa pressarna!",
+      "Tiden är inne.",
+      "Vakna!",
+      "Vi klarade det!",
+      "Viktigt meddelande:",
+      "Woop!",
+      "Äntligen!",
+      "Är ni med eller?"
+    ],
+    "announcements": [
+      "Arbetet fortsätter efter lite {}!",
+      "Blod, svett och {}!",
+      "Den som inte är sugen på {} ljuger!",
+      "Det är {}!",
+      "Det är {} NU!",
+      "Det är {} åt folket!",
+      "Det är dags för {}!",
+      "Det är hög tid för {}!",
+      "Ett litet steg för en människa, men stora steg mot {}!",
+      "Fråga inte vad {0} kan göra för dig, fråga vad du kan göra för {0}!",
+      "För {} i tiden!",
+      "Gärna guldklocka, men först rejäl {}!",
+      "Låtom oss konferera över {}!",
+      "Ni har gjort er förtjänta av {}!",
+      "Nu pausar vi för {}!",
+      "Nu skulle det sitta gott med {}!",
+      "Nu stundar {}!",
+      "Nu är det {}!",
+      "Nu är det dags för {}!",
+      "Ropen skalla, {} åt alla!",
+      "Utan {} går vi under!",
+      "Vi ses på {}!"
+    ]
+  }
+}

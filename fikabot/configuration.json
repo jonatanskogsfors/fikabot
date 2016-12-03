@@ -3,7 +3,7 @@
 
   "fika_breaks": [
     {"name": "förmiddagfika", "start": [10], "stop": [10, 30]},
-    {"name": "eftermiddagsfika", "start": [15], "stop": [21, 30]}
+    {"name": "eftermiddagsfika", "start": [15], "stop": [15, 30]}
   ],
 
   "fika_patterns": [

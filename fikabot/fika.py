@@ -18,4 +18,4 @@ class Fika:
         return it_is_a_work_day and the_clock_says_its_time
 
     def was_announced(self):
-        pass#self.already_announced = True
+        self.already_announced = True
